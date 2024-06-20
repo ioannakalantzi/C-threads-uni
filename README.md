@@ -1,1 +1,1 @@
-# C-threads-uni
+In this project, we created an order-processing system for a pizzeria using threads via pthread library in C. We used conditions, mutexes and sleeps. In the project, the system randomly selects the number of pizzas the customer wants, and if the order is approved or not. Also, it manages the order-taking by telephone, the cooking and the preparation of the pizzas and their delivery, and it keeps track of the time needed to complete and deliver each approved order, to show statistics at the end.
